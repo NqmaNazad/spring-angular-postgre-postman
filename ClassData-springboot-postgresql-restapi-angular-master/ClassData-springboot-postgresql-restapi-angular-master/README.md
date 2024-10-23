@@ -1,4 +1,4 @@
-no### methacademy-springboot-postgressql-restapi-eternalsuffering
+### methacademy-springboot-postgressql-restapi-eternalsuffering
 
 # Welcome to Meth Academy
 
