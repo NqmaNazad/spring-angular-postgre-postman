@@ -5,7 +5,7 @@
 ## Connected Repo for Angular and Frontend. 
 - Locate the Angular and Node setup in the 'sweaty.dev' folder.
 - ## [Docs]([https://github.com/Hiratsuna/sweaty.exam/tree/main/docs](https://github.com/Hiratsuna/methacademy-springboot-postgressql-restapi-angular/tree/master/docs)) 
-## - no idea what [this](https://github.com/Hiratsuna/methacademy.springboot_postgresql) is, lol xD
+## - no idea what this is, lol xD
 ## - [Video Followed for Spring-Java-PostgreSQL-RestAPI Part](https://www.youtube.com/watch?v=eWbGV3LLwVQ)
 ## - [Video Followed for Angular -> Spring](https://www.youtube.com/watch?v=fv_EkS34afE)
 # [POSTMAN REST API TESTS](https://methclass.postman.co/workspace/Team-Workspace~bf1a4036-c324-42a0-87ce-8eec1772e332/folder/28826781-1207dbdd-56a5-4684-9542-8033e1f5a8f9?ctx=documentation)
